@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+/* First option depending on your use case */
+/* .list {
+ column-count: 3;
+} */
+
+.list {
+  columns: 500px
+}
